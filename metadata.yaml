@@ -1,11 +1,16 @@
 _repo: The-Long-Silvery-Day_51550
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51550-h/images/cover.jpg
 creator:
   author:
     agent_name: Ludens, Magnus
     gutenberg_agent_id: '46129'
     url: http://www.gutenberg.org/2009/agents/46129
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51550#The-Long-Silvery-Day
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
